@@ -53,6 +53,20 @@ Contributed as part of the development team through:
 
 *These are team projects. My contributions are described above.*
 
+### Voice2Work · Frontend Contributor
+
+Contributed to the onboarding interface for a field-service management platform using Next.js, React, TypeScript and Tailwind CSS.
+
+- Built signup and multi-step onboarding screens.
+- Created responsive desktop and mobile navigation.
+- Added reusable progress indicators and company-logo selection with image previews.
+- Implemented mock authentication and simulated connection checks for UI development.
+- Added shared design tokens for consistent styling.
+
+[Visit the current website](https://voice-2-work-rho.vercel.app/)
+
+*Team project; source code is private. The current website may differ from the version I contributed to.*
+
 ## Completed Projects
 
 ### EGS Gafsa Attendance
